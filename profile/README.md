@@ -1,62 +1,113 @@
 # Hitek Games
 
-## О нас
-Добро пожаловать в Hitek Games — организацию, созданную мною для поддержки молодых талантов в мире разработки видеоигр. Моя цель — предоставить начинающим разработчикам реальный опыт, который поможет им не только укрепить свои навыки, но и создать качественное портфолио для дальнейшего продвижения в индустрии.
+## About Us
+Welcome to Hitek Games — an organization created by me to support young 
+talents in the world of video game development. My goal is to provide 
+aspiring developers with real experience that will not only strengthen 
+their skills but also help them create a quality portfolio for further 
+advancement in the industry.
 
-## Миссия
-Я стремлюсь создавать инновационные и захватывающие игры для различных платформ, начиная с ПК и постепенно расширяясь на мобильные устройства и игровые консоли. В Hitek Games важно - креативность, стремление к развитию и командная работа.
+## Mission
+I strive to create innovative and exciting games for various platforms, 
+starting with PC and gradually expanding to mobile devices and gaming 
+consoles. At Hitek Games, creativity, a drive for development, 
+and teamwork are paramount.
 
-## Проекты
-Мои проекты включают в себя разнообразные жанры и стили, предлагая членам нашей команды возможность работать над теми задачами, которые наилучшим образом соответствуют их интересам и навыкам. От инди-игр до многопользовательских проектов, каждый найдет здесь что-то для себя.
+## Projects
+My projects include a variety of genres and styles, offering team members 
+the opportunity to work on tasks that best match their interests and skills. 
+From indie games to multiplayer projects, everyone will find something here.
 
-## Участие в проектах
-Я всегда открыт для новых идей и проектов. 
+## Participation in Projects
+I am always open to new ideas and projects.
 
-## Бенефиты
-### Реальный опыт работы на проекте, который включает следующие ключевые аспекты:
-   - __Создание новых функций (фич):__ Разработка и реализация новых функциональностей, способствующая развитию навыков проектирования и программирования.
-   - __Исправление ошибок:__ Участие в дебаггинге и устранении неполадок, улучшающее аналитические способности и внимание к деталям.
-   - __Ведение документации:__ Подготовка технических документов и руководств, сопровождающих разработку проекта, что обеспечивает полное понимание процесса и результатов.
-   - __Трекинг времени:__ Отслеживание времени, затраченного на различные задачи, помогающее в организации работы и управлении проектами.
-   - __Работа по методологии:__ Применение современных методологий управления проектами, таких как Agile или Scrum, обучающее эффективному взаимодействию в команде и гибкому реагированию на изменения.
-   - __Еженедельные созвоны:__ Регулярное участие в командных совещаниях для обсуждения прогресса, планирования и решения текущих задач.
-   - __Передача знаний:__ Обмен знаниями и опытом внутри команды, способствующий обучению и профессиональному росту.
-   - __Работа в системе баг-трекинга:__ Использование инструментов для отслеживания и управления ошибками, улучшающее понимание процесса качества и тестирования.
-   - __Участие в код-ревью:__ Регулярные сессии проверки кода с коллегами для обеспечения соответствия стандартам качества и обмена опытом.
-   - __Кросс-функциональное взаимодействие:__ Взаимодействие с другими отделами, такими как маркетинг, дизайн и поддержка, расширяющее понимание бизнес-процессов и улучшающее коммуникативные навыки.
+## Benefits
+### Real project experience, including the following key aspects:
+- __Creating new features:__ Developing and implementing new functionalities, enhancing design and programming skills.
+- __Bug fixing:__ Participating in debugging and troubleshooting, improving analytical skills and attention to detail.
+- __Documentation:__ Preparing technical documents and guides accompanying project development, ensuring a complete understanding of processes and outcomes.
+- __Time tracking:__ Monitoring time spent on various tasks, aiding in work organization and project management.
+- __Working with methodology:__ Applying modern project management methodologies like Agile or Scrum, learning effective team interaction and flexible response to changes.
+- __Weekly calls:__ Regular participation in team meetings to discuss progress, plan, and solve current tasks.
+- __Knowledge transfer:__ Sharing knowledge and experience within the team, fostering learning and professional growth.
+- __Bug tracking system:__ Using tools to track and manage bugs, improving understanding of quality and testing processes.
+- __Code reviews:__ Regular code review sessions with colleagues to ensure quality standards and exchange experiences.
+- __Cross-functional interaction:__ Collaborating with other departments such as marketing, design, and support, expanding understanding of business processes and improving communication skills.
 
-### Использование готового продукта для портфолио:
-   Возможность включения разработанного проекта в личное портфолио, что станет значимым преимуществом при дальнейшем поиске работы и демонстрации навыков потенциальным работодателям.
+### Using the finished product for your portfolio:
+The opportunity to include the developed project in your personal portfolio, 
+which will be a significant advantage when job hunting and showcasing skills 
+to potential employers.
 
-### Упоминание в авторах проекта:
-   Ваше имя будет указано в списке авторов проекта, подчеркивающем ваш вклад и участие в разработке, что является отличным подтверждением вашего профессионального вклада.
+### Mention in project authors:
+Your name will be listed in the project authors, highlighting your 
+contribution and participation in development, serving as excellent 
+proof of your professional involvement.
 
-### Консультации со сторонними спикерами:
-   Сессии с приглашенными специалистами из различных областей индустрии, что обогатит ваш опыт уникальными знаниями и практиками, а также расширит профессиональные горизонты.
+### Consultations with external speakers:
+Sessions with invited specialists from various industry fields, 
+enriching your experience with unique knowledge and practices, 
+and expanding professional horizons.
 
-### Возможность руководства собственным проектом:
-   Для сотрудников с достаточным опытом предоставляется возможность руководить собственным проектом, что позволяет развить лидерские качества и получить ценный опыт управления проектами.
+### Opportunity to lead your own project:
+For employees with sufficient experience, there is an opportunity to 
+lead their own project, developing leadership qualities and gaining 
+valuable project management experience.  
 
-## Стек
-### Unity 
-Unity — мощный кроссплатформенный игровой движок, предназначенный для создания игр и интерактивных приложений как для 2D, так и для 3D. Он обладает широким набором функций для рендеринга графики, симуляции физики, работы со звуком, а также интегрированными средствами для работы с анимациями и создания сложных пользовательских интерфейсов.
+You Will Learn in This Position:  
+- High-level review of UI/UX design, specifications, tasks before they enter the backlog.
+- Prioritizing tasks within the sprint (determines the order of task execution according to technological requirements).
+- Balancing developer workload (collaboration with PM).
+- Forming the release candidate (build) and controlling the feature list's correspondence to the features within the release candidate.
+- Meetings (technical, demo, etc.).
+- Prioritizing technical debt.
+- Forming technical debt during technical syncs.
+- Controlling adherence to the development process/quality of task execution in the technical plan.
+- Overseeing onboarding/support of specific person/people.
+- Receiving 360 feedback within the team (as additional help for PM/RM).
+- Assigning developers to cross-team tasks.
+- Participating in forming the next releases.
+- Facilitation (participating in general facilitation, but not 100% responsibility. Also, formalizing the process, HR issues are not 100% - they can express their opinion, and it will be considered).
+- General responsibility for tasks/deadlines/releases.
+- Developing architectural concepts within the team.
+- Formalizing the development process and communicating it to all technical specialists/controlling compliance.
+- Participating in technical debt reviews.
+- Conducting interviews for the team (participating in HR decisions with PM/RM).
+- Maintaining and developing CI/CD.
+- Administering resources on Steam, AppStore, etc.
+- Determining the technological development strategy of the project or product.
+- Working on low-level architecture in consultation with the architect.
+
+
+## Stack
+### Unity
+Unity is a powerful cross-platform game engine designed for creating games 
+and interactive applications for both 2D and 3D. 
+It has a wide range of features for rendering graphics, simulating physics, 
+working with sound, and integrated tools for working with animations and 
+creating complex user interfaces.
 
 ### Blender
-Blender — бесплатное и открытое программное обеспечение для 3D моделирования, анимации, рендеринга, постобработки, создания интерактивных 3D приложений и видеоигр. Blender хорошо интегрируется с Unity, позволяя экспортировать модели и анимации напрямую в этот игровой движок.
+Blender is a free and open-source software for 3D modeling, animation, 
+rendering, post-processing, creating interactive 3D applications, 
+and video games. Blender integrates well with Unity, 
+allowing you to export models and animations directly to this game engine.
 
 ### C#
-C# — объектно-ориентированный язык программирования, разработанный компанией Microsoft. В контексте Unity, C# используется для написания скриптов, которые управляют поведением игровых объектов, логикой игры, взаимодействием с пользователем и другими элементами игрового процесса.
+C# is an object-oriented programming language developed by Microsoft. 
+In the context of Unity, C# is used for writing scripts that control 
+the behavior of game objects, game logic, user interaction, 
+and other elements of the gameplay.
 
 ### Git, Git LFS, GitHub
-__Git__ — система управления версиями, позволяющая разработчикам эффективно сотрудничать, контролируя изменения в коде и ассетах.  
-__Git LFS__ (Large File Storage) — расширение для Git, предназначенное для улучшенного хранения и управления большими файлами и ассетами, которые неэффективно обрабатываются стандартными средствами Git.  
-__GitHub__ — платформа для хостинга кода, использующая Git, предлагающая инструменты для совместной работы, такие как Issue Tracking, Pull Requests и Code Review.  
+__Git__ — a version control system that allows developers to collaborate effectively by tracking changes in code and assets.  
+__Git LFS__ (Large File Storage) — an extension for Git designed to improve storage and management of large files and assets that are inefficiently handled by standard Git tools.  
+__GitHub__ — a code hosting platform using Git, offering collaboration tools like issue tracking, pull requests, and code review.
 
 ### Agile, Kanban
-Agile — методология разработки, которая поддерживает непрерывное улучшение и гибкую реакцию на изменения. Она подразумевает итеративный подход, где проект разбивается на мелкие части, которые могут быть выполнены в короткие сроки.  
-Kanban — метод управления проектами, который направлен на повышение эффективности производства и уменьшение затрат, визуализируя рабочий процесс. Это помогает командам легче управлять процессом разработки, понимать текущее состояние дел и быстрее реагировать на проблемы.  
+Agile is a development methodology that supports continuous improvement and flexible response to changes. It involves an iterative approach where the project is broken down into small parts that can be completed in short periods.  
+Kanban is a project management method aimed at increasing production efficiency and reducing costs by visualizing the workflow. This helps teams manage the development process more easily, understand the current state of affairs, and respond to issues faster.
 
-## Обо мне
-IT портфолио - [LinkedIn](https://www.linkedin.com/in/hitekdada/)  
-Стриминг - [YouTube](https://www.youtube.com/@hitekingame)
-
+## About Me
+IT Portfolio - [LinkedIn](https://www.linkedin.com/in/hitekdada/)  
+Streaming - [YouTube](https://www.youtube.com/@hitekingame)
