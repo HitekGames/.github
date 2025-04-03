@@ -1,113 +1,62 @@
 # Hitek Games
 
-## About Us
-Welcome to Hitek Games — an organization created by me to support young 
-talents in the world of video game development. My goal is to provide 
-aspiring developers with real experience that will not only strengthen 
-their skills but also help them create a quality portfolio for further 
-advancement in the industry.
+## Хто ми такі
 
-## Mission
-I strive to create innovative and exciting games for various platforms, 
-starting with PC and gradually expanding to mobile devices and gaming 
-consoles. At Hitek Games, creativity, a drive for development, 
-and teamwork are paramount.
+**Hitek Games** — це організація, створена для підтримки молодих талантів у сфері розробки відеоігор. 
+Наша мета — допомогти новачкам отримати практичний досвід, розвинути навички та зібрати якісне портфоліо для успішного старту в індустрії.
 
-## Projects
-My projects include a variety of genres and styles, offering team members 
-the opportunity to work on tasks that best match their interests and skills. 
-From indie games to multiplayer projects, everyone will find something here.
+## Місія
 
-## Participation in Projects
-I am always open to new ideas and projects.
+Ми створюємо інноваційні ігри для різних платформ — від ПК до мобільних пристроїв і консолей. 
+Наш підхід базується на творчості, професійному розвитку та ефективній командній роботі.
 
-## Benefits
-### Real project experience, including the following key aspects:
-- __Creating new features:__ Developing and implementing new functionalities, enhancing design and programming skills.
-- __Bug fixing:__ Participating in debugging and troubleshooting, improving analytical skills and attention to detail.
-- __Documentation:__ Preparing technical documents and guides accompanying project development, ensuring a complete understanding of processes and outcomes.
-- __Time tracking:__ Monitoring time spent on various tasks, aiding in work organization and project management.
-- __Working with methodology:__ Applying modern project management methodologies like Agile or Scrum, learning effective team interaction and flexible response to changes.
-- __Weekly calls:__ Regular participation in team meetings to discuss progress, plan, and solve current tasks.
-- __Knowledge transfer:__ Sharing knowledge and experience within the team, fostering learning and professional growth.
-- __Bug tracking system:__ Using tools to track and manage bugs, improving understanding of quality and testing processes.
-- __Code reviews:__ Regular code review sessions with colleagues to ensure quality standards and exchange experiences.
-- __Cross-functional interaction:__ Collaborating with other departments such as marketing, design, and support, expanding understanding of business processes and improving communication skills.
+## Участь у проєктах
 
-### Using the finished product for your portfolio:
-The opportunity to include the developed project in your personal portfolio, 
-which will be a significant advantage when job hunting and showcasing skills 
-to potential employers.
+Ми працюємо над іграми різних жанрів і форм — інді, експериментальними, мультиплеєрними та сюжетними. 
+Кожен учасник може обрати роль та напрям, що відповідає його навичкам та інтересам.
 
-### Mention in project authors:
-Your name will be listed in the project authors, highlighting your 
-contribution and participation in development, serving as excellent 
-proof of your professional involvement.
+## Можливості розвитку
 
-### Consultations with external speakers:
-Sessions with invited specialists from various industry fields, 
-enriching your experience with unique knowledge and practices, 
-and expanding professional horizons.
+### 👨‍💻 Для програмістів
+- Практика програмування на C# у середовищі Unity
+- Розробка ігрових механік, UI, систем збереження, AI, інвентарів тощо
+- Робота з бібліотеками: Shader Graph, UI Toolkit, DOTS, ML Agents
+- Оптимізація, профілювання, робота з багами
+- CI/CD, складання білдів, налаштування DevOps
+- Колективна розробка: Git, GitHub, Code Review
 
-### Opportunity to lead your own project:
-For employees with sufficient experience, there is an opportunity to 
-lead their own project, developing leadership qualities and gaining 
-valuable project management experience.  
+### 🎮 Для геймдизайнерів
+- Створення геймплейних механік та ігрових систем
+- Написання GDD: фічі, правила, структура рівнів
+- Балансування, економіка, прогресія, темп гри
+- Розробка циклів утримання та вивчення UX
+- Побудова квестів, туторіалів, викликів
 
-You Will Learn in This Position:  
-- High-level review of UI/UX design, specifications, tasks before they enter the backlog.
-- Prioritizing tasks within the sprint (determines the order of task execution according to technological requirements).
-- Balancing developer workload (collaboration with PM).
-- Forming the release candidate (build) and controlling the feature list's correspondence to the features within the release candidate.
-- Meetings (technical, demo, etc.).
-- Prioritizing technical debt.
-- Forming technical debt during technical syncs.
-- Controlling adherence to the development process/quality of task execution in the technical plan.
-- Overseeing onboarding/support of specific person/people.
-- Receiving 360 feedback within the team (as additional help for PM/RM).
-- Assigning developers to cross-team tasks.
-- Participating in forming the next releases.
-- Facilitation (participating in general facilitation, but not 100% responsibility. Also, formalizing the process, HR issues are not 100% - they can express their opinion, and it will be considered).
-- General responsibility for tasks/deadlines/releases.
-- Developing architectural concepts within the team.
-- Formalizing the development process and communicating it to all technical specialists/controlling compliance.
-- Participating in technical debt reviews.
-- Conducting interviews for the team (participating in HR decisions with PM/RM).
-- Maintaining and developing CI/CD.
-- Administering resources on Steam, AppStore, etc.
-- Determining the technological development strategy of the project or product.
-- Working on low-level architecture in consultation with the architect.
+### 🎨 Для художників та UI/UX дизайнерів
+- Робота з 2D/3D: персонажі, середовище, ефекти
+- Інструменти: Blender, Aseprite, Photoshop, Figma
+- Створення та імпорт графіки в Unity
+- UI-дизайн, анімація, інтеграція з кодом
+- Робота в команді з геймдизайнерами та розробниками
 
+### 📖 Для лор-дизайнерів та сценаристів
+- Розробка всесвітів, персонажів, подій
+- Написання діалогів, квестів, наративних сценаріїв
+- Побудова глибокої історії та емоційного зв’язку
+- Взаємодія з командою для вбудовування сюжету в геймплей
 
-## Stack
-### Unity
-Unity is a powerful cross-platform game engine designed for creating games 
-and interactive applications for both 2D and 3D. 
-It has a wide range of features for rendering graphics, simulating physics, 
-working with sound, and integrated tools for working with animations and 
-creating complex user interfaces.
+### 🧩 Для техлідів, тімлідів, координаторів
+- Побудова процесу: розподіл задач, пріоритезація, планування
+- Онбординг команди, технічна документація, код-рев’ю
+- Формування релізів, контроль дедлайнів, DevOps
+- Технічне лідерство: архітектура, інтеграція, стратегія розвитку
+- Співбесіди, оцінка результатів, підтримка команди
 
-### Blender
-Blender is a free and open-source software for 3D modeling, animation, 
-rendering, post-processing, creating interactive 3D applications, 
-and video games. Blender integrates well with Unity, 
-allowing you to export models and animations directly to this game engine.
-
-### C#
-C# is an object-oriented programming language developed by Microsoft. 
-In the context of Unity, C# is used for writing scripts that control 
-the behavior of game objects, game logic, user interaction, 
-and other elements of the gameplay.
-
-### Git, Git LFS, GitHub
-__Git__ — a version control system that allows developers to collaborate effectively by tracking changes in code and assets.  
-__Git LFS__ (Large File Storage) — an extension for Git designed to improve storage and management of large files and assets that are inefficiently handled by standard Git tools.  
-__GitHub__ — a code hosting platform using Git, offering collaboration tools like issue tracking, pull requests, and code review.
-
-### Agile, Kanban
-Agile is a development methodology that supports continuous improvement and flexible response to changes. It involves an iterative approach where the project is broken down into small parts that can be completed in short periods.  
-Kanban is a project management method aimed at increasing production efficiency and reducing costs by visualizing the workflow. This helps teams manage the development process more easily, understand the current state of affairs, and respond to issues faster.
+### 🚀 Додатково
+- Консультації з фахівцями з ігрової індустрії
+- Можливість реалізувати власну ідею як окремий проєкт
+- Отримання готового результату для портфоліо
+- Згадка в титрах і на сторінках гри (Steam, itch.io тощо)
 
 ## About Me
-IT Portfolio - [LinkedIn](https://www.linkedin.com/in/hitekdada/)  
-Streaming - [YouTube](https://www.youtube.com/@hitekingame)
+IT Portfolio - [LinkedIn](https://www.linkedin.com/in/hitekdada/)
